@@ -1,4 +1,4 @@
-# Accessibility for Event Sequence Visualizations: A VQA Evaluation Dataset
+# Accessibility for Process Visualizations: A VQA Evaluation Dataset
 
 This repository contains a comprehensive Visual Question Answering (VQA) dataset for evaluating the accessibility and interpretability of process visualizations across different visualization techniques and information density levels.
 
