@@ -102,11 +102,13 @@ The dataset is structured for easy integration with VQA frameworks and can be us
 If you use this dataset in your research, please cite:
 
 ```bibtex
-@dataset{accessibility_evtseq_vqa,
+@inproceedings{zinat2025evaluating,
   title={Evaluating VLMs as Accessibility Bridges for Process Visualizations},
-  author={[Kazi Tasnim Zinat, Saad Mohammad Abrar, Sharmila Duppala, Saimadhav Naga Sakhamuri, Zhicheng Liu]},
+  author={Zinat, Kazi Tasnim and Abrar, Saad Mohammad and Duppala, Sharmila and Sakhamuri, Saimadhav Naga and Liu, Zhicheng},
+  booktitle={VizWiz Grand Challenge Workshop at IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
   year={2025},
-  institution={University of Maryland, College Park},
+  organization={IEEE},
+  howpublished={\url{https://vizwiz.org/workshops/2025-vizwiz-grand-challenge-workshop}}
 }
 ```
 
